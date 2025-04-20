@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @onekeky
 - 👀 I’m interested in games and phyton
-- 🌱 I’m currently learning id
+- 🌱 I’m currently learning phyton
 - 💞️ I’m looking to collaborate on id
 - 📫 How to reach me id
 - 😄 Pronouns id
